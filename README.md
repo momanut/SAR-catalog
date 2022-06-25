@@ -1,5 +1,6 @@
 # SAR-catalog
 ขั้นตอนในนำไปพัฒนาต่อ
+
 ส่วนของตัว web
 1. Download folder web 
 2. เข้าไปใน cmd ของ folder นั้น จากนั้น พิมพ์คำสั่ง npm i --force
