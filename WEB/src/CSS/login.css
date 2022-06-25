@@ -1,0 +1,58 @@
+#bgLogin{
+    display: flex;
+    background-color: #b1eff1 ;
+    background-image: url('../Image/genThumb.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#imageIcon{
+    display: flex;
+    justify-content: center;
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 40%;
+    height: 20%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    
+}
+
+#bgFromLogin{
+    width: 40%;
+    background-color: rgba(255, 255, 255, 0.5);
+    padding:2% ;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    
+}
+#logoImage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    padding-top: 5px;
+}
+#loginButton{
+    width: 100%;
+    border-radius: 20px;
+}
+
+#bgRegisandForget{
+    flex-direction: row;
+    justify-content: space-between;
+    display: flex;
+    margin-top: 10px;
+}
+#RegisterandForgetbutton{
+    width: 48%;
+    border-radius: 20px;
+}
+#Inputbox{
+    border-radius: 30px;
+}

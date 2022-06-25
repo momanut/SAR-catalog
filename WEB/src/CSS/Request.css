@@ -1,0 +1,89 @@
+#formbg1{
+    display:flex;
+    background-color:pink;
+    background-size: cover;
+    width:100%;
+    
+    justify-content:center
+}
+#formbg2{
+    display:flex;
+    background-color:pink;
+    width:70vw;
+    align-items:center;
+    flex-direction: column;
+}
+#inputtext{
+    display:flex;
+    width:50%;
+    align-items: center;
+    width: auto;
+
+}
+#inputcontroldropdown{
+    display: flex;
+    width: 13.5vw;
+    margin-left: auto;
+}
+#inputcontroltext{
+    display: flex;
+    margin-left: auto;
+    justify-content: flex-end;
+    align-items: flex-end;
+    width: auto;
+    align-self: flex-end;
+}
+#divfordropdown{
+    display:flex;
+    justify-content:center;
+    width:100%
+}
+#formbg3{
+    display:flex;   
+    width:60%;
+    margin-top: 2%;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+#aoi1{
+    display: flex;    
+    width:20vw;
+    margin:2%;    
+    flex-direction: column;
+    
+}
+#aoi2{
+    display:flex;    
+    align-items: center;
+    padding-right: 2%;
+    width: auto;
+}
+#aoi3{
+    display:flex;
+    margin-left: 10%;
+    width: auto;
+    align-items: flex-start;
+    align-content: flex-start;
+    align-self: flex-start;
+}
+#requestbtn{
+    display: flex;
+    margin: 5px;
+}
+#modelButton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #000;
+    flex-direction: column;
+}
+#firstsectionRequest{
+    display: flex;
+    background-color: steelblue;
+    align-items: flex-end;
+    justify-content: right;
+    width:100%;
+    height:20vh
+}
